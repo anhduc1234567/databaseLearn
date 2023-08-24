@@ -1,0 +1,2 @@
+--Xóa VIEW
+--DROP VIEW IF EXISTS name_view

@@ -1,0 +1,4 @@
+ALTER TABLE
+	Cust
+ADD
+	City NVARCHAR(20) NULL
